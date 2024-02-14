@@ -68,7 +68,8 @@ PACman is a classic arcade game where the player controls PACman to navigate a m
 
 ## Screenshots
 
-![PACman Game Screenshot available in PDF document](https://github.com/SwapnadeepK/PacMan_using_OpenGL/blob/main/Final_Reprt_CGV_1.pdf)
+![Paccman screenshot](https://github.com/SwapnadeepK/PacMan_using_OpenGL/blob/main/p2.jpeg)
+[PACman Game Screenshot available in PDF document](https://github.com/SwapnadeepK/PacMan_using_OpenGL/blob/main/Final_Reprt_CGV_1.pdf)
 
 ## License
 
